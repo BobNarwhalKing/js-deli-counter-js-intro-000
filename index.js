@@ -9,7 +9,7 @@ function takeANumber (lineName){
 console.log(takeANumber(katzDeliLine))
 console.log(takeANumber(katzDeliLine))
 console.log(takeANumber(katzDeliLine))
-console.,log(katzDeliLine)
+console.log(katzDeliLine)
 
 // Welcome, you are number 52
 
