@@ -1,7 +1,7 @@
-var katzDeliLine = []
-
+var katzDeliLine = [] 
+var i = 0
 function takeANumber (lineName){
-  var i = 0
+
   lineName.push(++i);
   return `Welcome, You are number ${i}.`;
 }
